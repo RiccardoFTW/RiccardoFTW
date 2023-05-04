@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>My name is Riccardo Ventura and I'm an aspiring front-end developer/Web designer. I'm from Italy, living in Milan and currently studying at Scuola Mohole. You can find me on <a href="["](https://www.linkedin.com/in/riccardo-ventura/)>Linkedin</a> .</h2>
+<h2>My name is Riccardo Ventura and I'm an aspiring front-end developer/Web designer. I'm from Italy, living in Milan and currently studying at Scuola Mohole. You can find me on <a href="["](https://www.linkedin.com/in/riccardo-ventura/)>Linkedin</a>.</h2>
 
