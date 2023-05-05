@@ -1,5 +1,5 @@
 <h1>Ciao Belli!👋</h1>
- <img width="100%" src="https://ozgurlukicin.com/wp-content/uploads/2022/10/a-long-time-ago-in-a-galaxy-far-far-away-google-trick.jpg" alt="a long time ago">
+ <img itemprop="contentUrl" class="view_img" id="vimg" data-height="281" alt="Star Wars, pixel art, lightsaber, A New Hope, HD wallpaper" src="https://c4.wallpaperflare.com/wallpaper/371/737/204/star-wars-pixel-art-lightsaber-a-new-hope-hd-wallpaper-preview.jpg" height="281">
 <p>My name is Riccardo Ventura and I'm an aspiring front-end developer/Web designer. I'm from Italy, living in Milan and currently studying at Scuola Mohole. You can find me on <a href="https://www.linkedin.com/in/riccardo-ventura/">Linkedin</a>.</p>
 <h1>
 OPERATING SYSTEM I KNOWS🧑🏻‍💻
