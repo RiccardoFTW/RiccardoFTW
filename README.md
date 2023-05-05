@@ -24,6 +24,11 @@ WHAT I'M STUDYING?🤓
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA">
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="XD">
 <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
+<h1>
+THANKS FOR VISITING! IF YOU WOULD LIKE TO TALK ABOUT WORK, MEET ME FOR A BEER, OR JUST DISCUSS STAR WARS, YOU CAN CONTACT ME<a href="mailto:r.ventura@outlook.it">HERE</a>
+</h1>
+<h1>BYE!🙋🏻‍♂️</h1>
+
 
 
 
