@@ -1,5 +1,5 @@
 <h1>Ciao Belli!👋</h1>
- <img width="100%" src="https://www.seekpng.com/png/detail/983-9837378_death-star-star-wars-pixel-art-easy.png" alt="Death Star - Star Wars Pixel Art Easy@seekpng.com">
+ <img width="100%" src="https://ozgurlukicin.com/wp-content/uploads/2022/10/a-long-time-ago-in-a-galaxy-far-far-away-google-trick.jpg" alt="a long time ago">
 <p>My name is Riccardo Ventura and I'm an aspiring front-end developer/Web designer. I'm from Italy, living in Milan and currently studying at Scuola Mohole. You can find me on <a href="https://www.linkedin.com/in/riccardo-ventura/">Linkedin</a>.</p>
 <h1>
 OPERATING SYSTEM I KNOWS🧑🏻‍💻
@@ -20,15 +20,10 @@ WHAT I'M STUDYING?🤓
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="ANGULAR">
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS">
 <h1>AND ABOUT DESIGN?🧑🏻‍🎨</h1>
-<img src="" alt="HTML5">
-<img src="" alt="CSS3">
-<img src="" alt="JAVASCRIPT">
-<img src="" alt="PYTHON">
-<img src="" alt="SASS">
-<img src="" alt="PHP">
-<img src="" alt="VUEJS">
-<img src="" alt="ANGULAR">
-<img src="" alt="WORDPRESS">
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="adobe">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA">
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="XD">
+<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
 
 
 
